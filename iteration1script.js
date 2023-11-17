@@ -4,10 +4,9 @@ function setup() {
 }
 
 function draw() {
-  // Your drawing code here (if needed)
 }
 
 function mouseClicked() {
-  fill(0, 0, 255); // Set fill color to blue
-  ellipse(mouseX, mouseY, 50, 50); // Draw a circle at the mouse position
+  fill(0, 0, 255); 
+  ellipse(mouseX, mouseY, 50, 50); 
   }
